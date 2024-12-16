@@ -1,0 +1,1 @@
+the trader should right click anywhere on the stack window and choose "" fill order "" . the volume filled on an order will be that which is offered by the trader . in order to fill the complete volume of the order

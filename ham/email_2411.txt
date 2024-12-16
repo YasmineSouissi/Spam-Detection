@@ -1,0 +1,1 @@
+is firstname . lastname @ enron . com . we will no longer support internet email address formats such as name @ enron . com

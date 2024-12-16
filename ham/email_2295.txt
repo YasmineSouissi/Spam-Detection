@@ -1,0 +1,1 @@
+: km go : @ s @ wq ; iww cd
